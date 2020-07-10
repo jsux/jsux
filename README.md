@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Upkar 
 
+<a href="https://twitter.com/satanizr">
+  <img align="left" alt="Upkar Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+<br/>
+<br/>
 <!--
 **jsux/jsux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Upkar, a passionate frontEnd web developer from London.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- :100: Take a look at my portfolio site: https://jsux.github.io
+- 🔭 I’m currently working on my project [The Collective website](https://github.com/collective-living/www-thecollective-com)
+- 🌱 I’m currently learning GraphQL & python
+- 💬 Ask me about anything [here](https://github.com/jsux/jsux/issues)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
