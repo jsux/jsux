@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <!--
-**jsux/jsux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jsux/jsux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Hi, I'm Upkar, a passionate frontEnd web developer from London.
 
@@ -17,4 +17,4 @@ Hi, I'm Upkar, a passionate frontEnd web developer from London.
 - 💬 Ask me about anything [here](https://github.com/jsux/jsux/issues)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
