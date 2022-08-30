@@ -12,7 +12,6 @@
 Hi, I'm Upkar, a passionate frontEnd web developer from London.
 
 - :100: Take a look at my portfolio site: https://github.com/jsux
-- 🔭 I’m currently working on my project [The Collective website](https://github.com/collective-living/www-thecollective-com)
 - 🌱 I’m currently learning GraphQL & python
 - 💬 Ask me about anything [here](https://github.com/jsux/jsux/issues)
 - ⚡ Fun fact: ...
